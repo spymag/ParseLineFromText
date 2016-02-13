@@ -6,7 +6,7 @@ import os
 
 
 #definitions for debuging only
-fname = "BFV4_instance3_1000T.txt"#BFV4_instance1_0T.txt"
+fname = "FileToParse.txt"#BFV4_instance1_0T.txt"
 fname1 = "BFV4_instance3_1000T copy 2.txt"
 fname2 = "BFV4_instance3_1000T copy 3.txt"
 fname3 = ""#BFV4_instance3_1000T.txt"
@@ -14,9 +14,9 @@ fname4 = ""
 fname5 = ""
 fname6 = ""
 
-outreach = 23.00
-outreach1 = 15.10
-outreach2 = 25.00
+outreach = 15.10
+outreach1 = 21.11
+outreach2 = 23.47
 outreach3 = 0#15.10
 outreach4 = 0
 outreach5 = 0
